@@ -1,0 +1,3 @@
+[submodule "hft-agent"]
+	path = hft-agent
+	url = https://github.com/edelarocha/hft-agent.git
